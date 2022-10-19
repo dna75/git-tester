@@ -1,0 +1,22 @@
+{
+  "name": "git-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dna75/git-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dna75/git-tester/issues"
+  },
+  "homepage": "https://github.com/dna75/git-tester#readme",
+  "dependencies": {
+    "gsap": "^3.9.1"
+  }
+}

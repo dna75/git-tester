@@ -1,2 +1,1 @@
-Change 2
-Change B
+<?php echo 'Hello';
